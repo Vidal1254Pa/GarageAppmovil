@@ -36,9 +36,9 @@ public class GestorVentas extends AppCompatActivity {
                     case R.id.itemMonitorio:
                         PagerItemsGestorVentas.setCurrentItem(3);//3 para vizualizar el fragment monitoreo
                         break;
-                    case R.id.itemMesas:
+                    /*case R.id.itemMesas:
                         PagerItemsGestorVentas.setCurrentItem(1);//1 para vizualizar el fragment mesas
-                        break;
+                        break;*/
                 }
                 getSupportActionBar().setTitle(item.getTitle());
                 return true;
