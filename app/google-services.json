@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "31198324730",
+    "firebase_url": "https://ventasalmacen-d26a3-default-rtdb.firebaseio.com",
+    "project_id": "ventasalmacen-d26a3",
+    "storage_bucket": "ventasalmacen-d26a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31198324730:android:fb2337cea79d9357d12643",
+        "android_client_info": {
+          "package_name": "com.example.garageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31198324730-d3tsilu0b384d4lj6gi1hj90i4doi8pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbz6qyewXz7D3wTUq_VodBHBupHOLV230"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31198324730-d3tsilu0b384d4lj6gi1hj90i4doi8pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
