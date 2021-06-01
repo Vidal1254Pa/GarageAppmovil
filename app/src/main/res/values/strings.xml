@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">El Garage</string>
+    <string name="url_WebService">http://13.58.110.164/api/</string>
 </resources>

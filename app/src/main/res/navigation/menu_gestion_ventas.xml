@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/inicio"
-        android:name="com.example.garageapp.Inicio"
+        android:name="com.example.garageapp.Fragments.Inicio"
         android:label="fragment_inicio"
         tools:layout="@layout/fragment_inicio" />
     <fragment
@@ -17,12 +17,12 @@
         tools:layout="@layout/fragment_mesas" />
     <fragment
         android:id="@+id/productos"
-        android:name="com.example.garageapp.Productos"
+        android:name="com.example.garageapp.Fragments.Productos"
         android:label="fragment_productos"
         tools:layout="@layout/fragment_productos" />
     <fragment
         android:id="@+id/monitoreo"
-        android:name="com.example.garageapp.Monitoreo"
+        android:name="com.example.garageapp.Fragments.Monitoreo"
         android:label="fragment_monitoreo"
         tools:layout="@layout/fragment_monitoreo" />
 </navigation>

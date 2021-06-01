@@ -49,7 +49,7 @@ public class ProdxMesaAdapter extends RecyclerView.Adapter<ProdxMesaAdapter.View
 
     public class ViewHolder extends RecyclerView.ViewHolder {
         public LinearLayout ContenerPedidos;
-        public TextView txtNumMesa;
+        public TextView txtNumMesa; 
 
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
